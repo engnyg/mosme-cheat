@@ -46,6 +46,7 @@ uv run main.py
 # 或
 .venv/Scripts/python main.py
 ```
+https://github.com/engnyg/mosme-cheat/blob/master/2026-03-14%2012-07-51.mp4
 
 執行後：
 1. 自動登入並前往目標課程頁面
