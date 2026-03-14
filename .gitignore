@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# 環境變數（含帳號密碼，勿上傳）
+.env
+
+# 截圖與暫存
+*.png
+
+# Claude Code 設定
+.claude/

@@ -1,0 +1,12 @@
+[project]
+name = "mosme-cheat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "browser-use>=0.12.2",
+    "playwright>=1.58.0",
+    "pymupdf>=1.27.2",
+    "python-dotenv>=1.2.1",
+]
